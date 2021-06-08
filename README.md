@@ -8,3 +8,6 @@ Linux/Mac    || Java Swing
 Web          || ASP.NET
 
 Anddroid/iOS || Xamarin
+
+# Notice:
+This repository will not be updated; future versions of visualtext will be under the user "_Override"
